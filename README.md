@@ -1,6 +1,7 @@
 # VMware Tools automatic update not working? Try this!
 
-<img width="411" height="171" alt="image" src="https://github.com/user-attachments/assets/b40d7f63-c693-4cf0-ac4e-a02a5ada7a2a" />
+<img width="411" height="171" alt="VMwaretools_failed" src="https://github.com/user-attachments/assets/721ce76d-15a0-4f3a-b930-97a814a4d146" />
+
 
 See this in VMware while trying to upgrade the VMware Tools automatically after a VMware backend update?
 
